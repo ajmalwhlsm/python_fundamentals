@@ -1,0 +1,31 @@
+a=3
+b=4
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a%b)
+print(a//b)
+print(a**b)
+-------------------------------------------
+print(type(10))
+print(type(9.8))
+print(type(4 - 4j))
+print(type(['Atl', 'Python', 'tm']))
+print(type('aj'))
+print(type('value'))
+print(type('india'))
+-------------------------------------------
+x1=2
+y1=3
+x2=10
+y2=8
+distance=(((x1-x2)**2)+((y1-y2)**2))**0.5
+print(distance)
+--------------------------------------------
+x1=2
+y1=3
+x2=10
+y2=8
+distance=(((x1-x2)**2)+((y1-y2)**2))**0.5
+print(distance)
