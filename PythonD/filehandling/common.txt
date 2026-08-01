@@ -1,0 +1,42 @@
+Hello everyone and welcome to the Python workshop.
+Today we will learn how to read files using Python.
+Python makes it easy to work with text files.
+Many people use Python for data analysis.
+Data analysis often begins with reading text.
+Reading text files is a useful programming skill.
+Python can count words in a document.
+The program should count every word correctly.
+Some words appear many times in the file.
+Some words appear only once.
+Learning Python requires practice every day.
+Practice helps you write better programs.
+Good programs are easy to read and maintain.
+Python programmers often use dictionaries.
+A dictionary stores keys and values.
+In this example the keys are words.
+The values represent the number of times each word appears.
+The program reads one line at a time.
+Each line is split into individual words.
+The words are stored and counted.
+Python is simple and powerful.
+Many beginners enjoy learning Python.
+Python is also popular in machine learning.
+Machine learning uses data to make predictions.
+Data can come from text files or databases.
+Text processing is a common programming task.
+This example contains repeated words.
+Python Python Python is repeated several times.
+Data data data is also repeated.
+Practice practice practice makes programming easier.
+The quick brown fox jumps over the lazy dog.
+The dog chased the fox across the field.
+The fox escaped into the forest.
+Everyone enjoyed the programming session.
+Everyone learned something new.
+The workshop ended with a small project.
+The project involved counting words.
+The results were displayed on the screen.
+Students compared their solutions.
+Some solutions were faster than others.
+Some solutions were easier to understand.
+Everyone improved their coding skills.
